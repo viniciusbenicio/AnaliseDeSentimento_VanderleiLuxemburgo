@@ -14,3 +14,6 @@ e o que vi em cursos eu consegui chegar até ai, procuro aprender mais e desevol
 6. Foi criado uma lista vazia que recebe a polaridade de todos os tweets armazena as polaridade de cada tweet variando de -1 a 1
 
 E um gráfico simples a aonde demonstra qual maior polaridade dos tweet no caso está 0 ou seja todos tweets coletados estão neutro assim analisando podemos ver que nem todos estão com uma reação ruim ou positiva.
+
+![alt text](https://i.ibb.co/t31jBJt/hist.png)
+
